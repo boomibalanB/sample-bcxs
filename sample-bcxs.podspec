@@ -1,5 +1,5 @@
 Pod::Spec.new do |s|
-  s.name             = "sample-bcxs.podspec"
+  s.name             = "sample-bcxs"
   s.version          = "1.0.0"
   s.summary          = "BD solves the most common problems for small to medium businesses across different industries."
   s.description      = <<-DESC
