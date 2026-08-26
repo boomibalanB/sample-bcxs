@@ -1,0 +1,6 @@
+framework module BoldCXSupportSDK {
+  umbrella header "BoldCXSupportSDK.h"
+  export *
+
+  module * { export * }
+}
